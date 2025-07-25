@@ -5,7 +5,7 @@ import { MdArrowDownward } from "react-icons/md";
 const NavbarBtn = () => {
   const onButtonClick = () => {
     const link = document.createElement("a");
-    link.href = "/public/images/Laasya_CV.pdf"; // Public folder path
+    link.href = "/images/Laasya_CV.pdf"; // Public folder path
     link.download = "Pranava_MIHI_Resume.pdf";
     document.body.appendChild(link);
     link.click();
