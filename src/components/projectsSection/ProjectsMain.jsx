@@ -7,21 +7,21 @@ const projects = [
   {
     name: "Power BI – Enrollment and Academic Performance Analytics",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
+    image: "/images/website-img-1.jpg",
     text: "Built a dynamic Power BI dashboard using SQL and DAX to monitor enrollment and academic performance trends, empowering academic teams to identify at-risk programs and take corrective action.",
   },
   {
     name: "Traffic Management for Emergency Vehicles",
 
     align: "left",
-    image: "../../public/images/website-img-2.webp",
+    image: "/images/website-img-2.webp",
     text: "Designed a Python and OpenCV-based emergency vehicle detection system integrated with Flask and PyTesseract, reducing average response times by 40% for urban emergency services.",
   },
   {
     name: "Smart Governance Through Big Data",
    
     align: "right",
-    image: "../../public/images/website-img-3.jpg",
+    image: "/images/website-img-3.jpg",
     text: "Developed a Hadoop-MapReduce application for real-time government data analysis, improving operational efficiency by 40% and cutting staff training needs by 50 hours annually.",
   },
 
